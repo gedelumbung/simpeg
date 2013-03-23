@@ -1,4 +1,4 @@
-ci-simpeg
+simpeg
 =========
 
 Simple Employee Management Applications
